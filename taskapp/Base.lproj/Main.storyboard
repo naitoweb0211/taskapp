@@ -96,7 +96,7 @@
                         <outlet property="sCategory" destination="JqF-mT-hj6" id="AQE-8g-dE9"/>
                         <outlet property="search" destination="JgJ-Mr-XjB" id="qXx-qh-o8T"/>
                         <outlet property="tableView" destination="zWe-hh-mhh" id="411-CY-JhO"/>
-                        <segue destination="1bF-g0-ZG4" kind="show" identifier="cellSegue" id="zp9-hy-hzL"/>
+                        <segue destination="1bF-g0-ZG4" kind="show" identifier="cellSegue" id="Rao-ou-Ea4"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -231,7 +231,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="zp9-hy-hzL"/>
+        <segue reference="Rao-ou-Ea4"/>
     </inferredMetricsTieBreakers>
     <resources>
         <systemColor name="labelColor">
